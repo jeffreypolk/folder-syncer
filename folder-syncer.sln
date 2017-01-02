@@ -7,6 +7,13 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PS.ExeBase", "..\ps-exe-bas
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FolderSyncer", "FolderSyncer\FolderSyncer.vbproj", "{EFBF9B88-5855-499B-9895-2E4F0B02BE7E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F495E571-BA8A-476D-9E47-91370186B74E}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
